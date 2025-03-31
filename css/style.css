@@ -103,7 +103,7 @@ h2 {
   fill: rgb(238, 255, 0);
 }
 .model__close-btn:focus svg path {
-  fill: rgb(228, 10, 140);
+  fill: rgb(236, 20, 150);
 }
 
 .modal.open {
