@@ -86,7 +86,7 @@ h2 {
 }
 .model__close-btn {
   position: absolute;
-  top: 6px;
+  top: 5px;
   right: 15px;
   border: none;
   background-color: transparent;
@@ -103,7 +103,7 @@ h2 {
   fill: rgb(238, 255, 0);
 }
 .model__close-btn:focus svg path {
-  fill: rgb(236, 20, 150);
+  fill: rgb(236, 37, 157);
 }
 
 .modal.open {
