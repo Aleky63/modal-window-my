@@ -97,7 +97,7 @@ h2 {
   transition: fill 0.5s;
 }
 .model__close-btn:hover svg path {
-  fill: rgb(10, 10, 230);
+  fill: rgb(18, 18, 224);
 }
 .model__close-btn:active svg path {
   fill: rgb(238, 255, 0);
