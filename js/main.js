@@ -10,7 +10,6 @@ document
     document.getElementById("my-modal").classList.remove("open");
   });
 
-  //Закрыть окно при нажатии на ESC
 
   window.addEventListener('keydown', (e) => {
     if (e.key === "Escape") {
@@ -18,7 +17,7 @@ document
     }
 });
 
-  //Закрыть окно при клике вне его
+ 
 
   document.querySelector("#my-modal .modal__box").addEventListener('click', event => {
     event._isClickWithInModal = true;
